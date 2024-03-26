@@ -1,0 +1,34 @@
+
+Restorant takip otomasyonu v1.0 kullanmaya başladığınız için teşekkür ederiz:
+uygulamayı kullanabilmek için ufak ipuçlarına bu belge sayesinde erişebileceksiniz:
+Başlarken
+-Login ekranında default olarak tanımlanmış olan
+Kullanıcı seviyesi:1
+Kullancı adı: batuhan
+şifre:123456
+şeklinde giriş yapınız
+ilk olarak ayarlar kısımından yönetici bilgilerinizi oluşturunuz ve güvenlik zafiyeti olmaması için 
+defaul kullanıcıyı siliniz 
+1-Masalar:
+Bu kısımda restoranınızda bulunan masalara erişip gelen siparişleri yönetebilirsiniz
+2-Yemekler:
+Bu kısımda restoranınızda bulunan ürünleri ilk 16 ürün gözükecek şekilde düzenle kısmınından ekleyebilirsiniz ürün bilgileri ve fiyatları otomatik olarak gelecektir
+3-İçecekler 
+Yemek kısmı ile aynı işleyişe sahiptir.
+4-Garsonlar kısmı:
+İşletmenizde bulunan garsonların yönetimini bu kısım yardımı ile yapabilrsiniz
+5-Stok Durumu:
+Bu kısımda ise işletmenizde bulunan tüm ürünlerin stok takibini yapabilrsiniz
+Uygulamamız kritik stokta bulunan ürünlerin geri bildirimde bulunacak şekilde tasarlanmıştır v1.0 ı kullanıp rahatlığın tadını çıkarabilrsiniz :)
+6-Mali Kayıtlar 
+İşletmenizde uygulama açılırken açtığınız her yeni gün için güm içi hasılatı buradan takip edebilirsiniz vergi kısmından ülkemizde uygulanan %20 oranında
+kdv hesaplaması otomatik olarak yapılmıştır farklı vergi oranları için iletişime geçiniz.
+7-Düzenleme
+İşletmenizde bulunan ürünlerin 
+stok
+fiyat
+isim
+vs gibi özelliklerini bu araç aracılığıyla güncelleyebilir ekleyebilir ya da silebilirsiniz :)
+8-Ayarlar:
+Yöneticinin Tüm özellikleri tek bir araç üzerinden kontrol edebilmesi için tasarlanmış bölümdür.
+------------------------------------------------------------------------------------------------------

@@ -1,0 +1,8 @@
+SQL Server Management Studio (SSMS) içerisinden Databases kısmına sağ tıklayarak Import Data-tier Application seçeneğini seçiyoruz.
+Karşımıza açılış sayfası geliyor. Bu sayfada Next diyerek bir sonraki adıma geçiyoruz.
+Bu adımda BACPAC dosyamızın hangi lokasyondan alınacağını belirtmemiz gerekiyor. İki seçeneğimiz mevcut. İlki yerel bir diskten bu dosyayı eklemek, diğeri ise Windows Azure üzerinden eklemek. Bizim BACPAC dosyamız yerel diskimiz içerisinde olduğu için ilk seçeneğin yanında bulunan Browse butonuna tıklıyoruz.
+BACPAC dosyamız masaüstünde olduğu için o lokasyona giderek dosyamızı seçip, OPEN seçeneğine tıklıyoruz.
+Gösterdiğimiz dosya yolu ekranımıza yansıdıktan sonra Next diyerek bir sonraki adıma geçiyoruz.
+Bu ekranda dosyamızın SQL Server içerisine hangi isimle kurulacağını ve Data ve Log dosyalarının hangi lokasyona kaydedileceğini seçebiliyoruz. Bu kısımda mevcut yapınıza göre ilgili değişiklikleri yapabilirsiniz. Herhangi bir değişiklik yapmadan Next diyerek bir sonraki adıma geçiyoruz.
+Yaptığımız tüm adımların özeti olan bu ekranda son kontrolleri yaptıktan sonra herhangi bir sorun olmadığını düşünüyorsak Finish seçeneğini seçiyoruz.
+Bu ekranda veritabanımızın büyüklüğüne göre bir süre bekleyebiliriz. Tüm işlemler başarılı bir şekilde gerçekleştikten sonra Close diyerek ekleme işlemini tamamlıyoruz.
